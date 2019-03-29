@@ -7,4 +7,9 @@ body {
   main {
     flex: 1 0 auto;
   }
-      
+  .nav-wrapper{
+    background-color: blue;
+  }
+  .page-footer{
+    background-color: blue;
+  }
